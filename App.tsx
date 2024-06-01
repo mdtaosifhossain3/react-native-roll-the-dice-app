@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     color: '#8EA7E9',
     fontWeight: '700',
     textTransform: 'uppercase',
-    marginTop: 8,
+    marginTop: 6,
   },
 });
 
